@@ -6,11 +6,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-58P6N4X');</script>
 <!-- End Google Tag Manager -->
 
-## Welcome to GitHub Pages
+## This is Paul's GTM Test Page
 
-You can use the [editor on GitHub](https://github.com/notanotherthrowaway/testsite1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Jekyll](https://jekyllrb.com/)
 
 ### Markdown
 
