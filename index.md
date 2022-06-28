@@ -6,10 +6,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-58P6N4X');</script>
 <!-- End Google Tag Manager -->
 
-<!-- Wallet Guru verification - partner account 2749749 yo yo-->
-<meta name='ir-site-verification-token' value='-843102139'>
-<!-- End veri -->
-
 ## This is Paul's GTM Test Page
 
 [Jekyll](https://jekyllrb.com/)
@@ -37,6 +33,9 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<!-- Wallet Guru verification - partner account 2749749 yo yo-->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt USD-843102139 ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+<!-- End veri -->
 
 ### Jekyll Themes
 
