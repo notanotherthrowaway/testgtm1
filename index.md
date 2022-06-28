@@ -6,6 +6,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-58P6N4X');</script>
 <!-- End Google Tag Manager -->
 
+<!-- Wallet Guru verification - partner account 2749749 yo yo-->
+<meta name='ir-site-verification-token' value='-843102139'>
+<!-- End veri -->
+
 ## This is Paul's GTM Test Page
 
 [Jekyll](https://jekyllrb.com/)
